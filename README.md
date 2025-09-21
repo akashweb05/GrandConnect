@@ -30,7 +30,6 @@ Inspired by the **India Ageing Report 2023 (UNFPA)**, which highlights that by 2
 ### Clone the repo
 ```bash
 git clone https://github.com/akashweb05/GrandConnect.git
-cd grandconnect
 ```
 ### Run Backend
 ```bash
