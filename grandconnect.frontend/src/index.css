@@ -1,0 +1,49 @@
+body {
+  font-family: Inter, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f6f8fb;
+}
+.container {
+  max-width: 900px;
+  margin: 24px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.05);
+}
+.big-btn {
+  display:block;
+  width:100%;
+  padding:16px;
+  font-size:18px;
+  border-radius:10px;
+  border: none;
+  background: #0066ff;
+  color:white;
+  cursor:pointer;
+  margin:8px 0;
+}
+.big-btn.secondary {
+  background: #e9eefc;
+  color: #111827;
+}
+.room-card {
+  padding:12px;
+  border-radius:8px;
+  border: 1px solid #eef2ff;
+  margin:8px 0;
+}
+.header {
+  display:flex;
+  align-items:center;
+  gap:12px;
+}
+.title {
+  font-size:24px;
+  font-weight:700;
+}
+.small {
+  font-size:14px;
+  color:#6b7280;
+}
