@@ -31,25 +31,25 @@ Inspired by the **India Ageing Report 2023 (UNFPA)**, which highlights that by 2
 ```bash
 git clone https://github.com/akashweb05/GrandConnect.git
 cd grandconnect
-Run Backend
-bash
-Copy code
-cd backend
+```
+### Run Backend
+```bash
+cd GrandConnect.backend
 # open in Visual Studio or run
 dotnet run
 Backend will run on: https://localhost:7266/
+```
 
-Run Frontend
-bash
-Copy code
-cd frontend
+### Run Frontend
+```bash
+cd GrandConnect.Frontend
 npm install
 npm start
 Frontend will run on: http://localhost:3000/
 ```
 
-📸 Screenshots / Demo
+### 📸 Screenshots / Demo
 Add screenshots, GIFs, or demo video links here.
 
-📜 License
+### 📜 License
 MIT License
