@@ -33,7 +33,7 @@ git clone https://github.com/akashweb05/GrandConnect.git
 ```
 ### Run Backend
 ```bash
-cd GrandConnect.backend
+cd GrandConnect.Backend
 # open in Visual Studio or run
 dotnet run
 Backend will run on: https://localhost:7266/
@@ -47,8 +47,8 @@ npm start
 Frontend will run on: http://localhost:3000/
 ```
 
-### 📸 Screenshots / Demo
-Add screenshots, GIFs, or demo video links here.
+### 📸 Demo Video
+Youtube - https://youtu.be/mDTY8aejRf4
 
 ### 📜 License
 MIT License
