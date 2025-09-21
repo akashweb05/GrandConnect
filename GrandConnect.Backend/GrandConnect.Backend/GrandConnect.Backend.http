@@ -1,0 +1,6 @@
+@GrandConnect.Backend_HostAddress = http://localhost:5076
+
+GET {{GrandConnect.Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

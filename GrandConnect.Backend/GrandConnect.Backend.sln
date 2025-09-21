@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrandConnect.Backend", "GrandConnect.Backend\GrandConnect.Backend.csproj", "{0B2D660C-B844-4C92-B782-52DDA01E252F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B2D660C-B844-4C92-B782-52DDA01E252F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2D660C-B844-4C92-B782-52DDA01E252F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2D660C-B844-4C92-B782-52DDA01E252F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2D660C-B844-4C92-B782-52DDA01E252F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD873B7B-A0EA-47F4-BC48-D7D327D0B350}
+	EndGlobalSection
+EndGlobal
